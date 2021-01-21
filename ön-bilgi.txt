@@ -1,0 +1,134 @@
+kamera
+x	y	z	roll	pitch	yaw
+-5,538	-8,437	2,549	15	-45	25
+
+derinlik kamera
+x	y	z	roll	pitch	yaw
+5,949	-2,590	0	45	45	0
+
+
+kinect kamera
+x	y	z	roll	pitch	yaw
+-3,800	-3,744	0	0	30	0
+
+
+
+
+kamera'ya göre iris_robot
+x	y	z	roll	pitch	yaw
+8,150	1,544	-1,479
+45	30	0
+
+
+
+
+kamera'ya göre create robot
+x	y	z	roll	pitch	yaw
+10,623	0,544	-2,719
+0	0	0
+
+
+
+kamera'ya göre r2 robot
+x	y	z	roll	pitch	yaw
+10,367	2,412	-1,643
+-45	-60	50
+
+
+
+kinect kamera'ya göre Husky Robot
+x	y	z	roll	pitch	yaw
+3,837	-2,234	0,479
+0	40	30
+
+
+
+kinect kamera'ya göre yourobot
+x	y	z	roll	pitch	yaw
+4,289	3,189	0,479
+30	0	35
+
+
+
+
+
+kinect kamera'ya göre turtlebot3_waffle
+
+x	y	z	roll	pitch	yaw
+2,480	4,849	0,479
+0	45	25
+
+
+
+derinlik kamera'ya göre pioneer3at
+
+x	y	z	roll	pitch	yaw
+6,149	5,281	0,265
+20	15	65
+
+
+
+derinlik kamera'ya göre pioneer2dx
+
+x	y	z	roll	pitch	yaw
+0,948	6,729	0,265
+-20	-15	0
+
+
+derinlik kamera'ya göre mars rover
+
+x	y	z	roll	pitch	yaw
+9,378	6,643	1,265
+-30	45	-15
+
+
+
+dünya koordinat sistemine göre kutu
+
+x	y	z	roll	pitch	yaw
+6,954	-7,144	0,149
+0	0	0
+
+
+dünya koordinat sistemine göre tuğla
+
+x	y	z	roll	pitch	yaw
+6,954	-7,144	0,149
+0	0	0
+
+
+dünya koordinat sistemine göre geniş tuğla
+
+x	y	z	roll	pitch	yaw
+5,618	-9,217	0	0	0	0
+
+
+
+dünya koordinat sistemine göre varil
+
+x	y	z	roll	pitch	yaw
+0,401	-8,934	0
+0	0	0
+
+
+dünya koordinat sistemine göre çöp kutusu
+
+x	y	z	roll	pitch	yaw
+1,458	-2,732	0
+0	0	0
+
+
+
+dünya koordinat sistemine göre kereste
+
+x	y	z	roll	pitch	yaw
+4,435	-0,911	0,04
+0	0	0
+
+
+
+dünya koordinat sistemine göre tekerlek
+
+x	y	z	roll	pitch	yaw
+2,414	-1,050	0,02
+0	0	0
